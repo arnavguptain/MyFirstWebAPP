@@ -1,4 +1,5 @@
-import streamlit as st
+Pip install django
 
-st.title("My First Streamlit Application - ARNAV GUPTA")
-st.write("Hello! Creating a simple web app using Streamlit")
+django-admin startproject ExpenseTracker
+python mange.py startapp home
+
